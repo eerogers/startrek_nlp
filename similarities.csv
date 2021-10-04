@@ -1,0 +1,73 @@
+,character1,character2,similarity
+0,Original Spock,Original Kirk,0.9937130743555186
+1,Original Spock,Janeway,0.9922751885380129
+2,Original Spock,Archer,0.9873077027281622
+3,Original Spock,Sisko,0.9895709621621689
+4,Original Spock,Picard,0.9956894407702334
+5,Original Spock,Data,0.9984858359693857
+6,Original Spock,Animated Spock,0.9995052511206293
+7,Original Spock,Animated Kirk,0.9945894064550371
+8,Original Kirk,Original Spock,0.9937130743555186
+9,Original Kirk,Janeway,0.9982983230569461
+10,Original Kirk,Archer,0.9966443274521952
+11,Original Kirk,Sisko,0.9977815867038216
+12,Original Kirk,Picard,0.9986986773888615
+13,Original Kirk,Data,0.9908779876009167
+14,Original Kirk,Animated Spock,0.9920752860623172
+15,Original Kirk,Animated Kirk,0.9992285183056868
+16,Janeway,Original Spock,0.9922751885380129
+17,Janeway,Original Kirk,0.9982983230569461
+18,Janeway,Archer,0.998934775535619
+19,Janeway,Sisko,0.9990707104261803
+20,Janeway,Picard,0.998718503908678
+21,Janeway,Data,0.9905509444790915
+22,Janeway,Animated Spock,0.9911736615329763
+23,Janeway,Animated Kirk,0.9972949095734902
+24,Archer,Original Spock,0.9873077027281622
+25,Archer,Original Kirk,0.9966443274521952
+26,Archer,Janeway,0.998934775535619
+27,Archer,Sisko,0.9993010948559874
+28,Archer,Picard,0.9962584029167658
+29,Archer,Data,0.984865686957022
+30,Archer,Animated Spock,0.9861875603294211
+31,Archer,Animated Kirk,0.9947055033796323
+32,Sisko,Original Spock,0.9895709621621689
+33,Sisko,Original Kirk,0.9977815867038216
+34,Sisko,Janeway,0.9990707104261803
+35,Sisko,Archer,0.9993010948559874
+36,Sisko,Picard,0.9977217371022012
+37,Sisko,Data,0.9871547526624539
+38,Sisko,Animated Spock,0.9881255752310685
+39,Sisko,Animated Kirk,0.995783212495648
+40,Picard,Original Spock,0.9956894407702334
+41,Picard,Original Kirk,0.9986986773888615
+42,Picard,Janeway,0.998718503908678
+43,Picard,Archer,0.9962584029167658
+44,Picard,Sisko,0.9977217371022012
+45,Picard,Data,0.994220600718443
+46,Picard,Animated Spock,0.9944325963688893
+47,Picard,Animated Kirk,0.9980342270939754
+48,Data,Original Spock,0.9984858359693857
+49,Data,Original Kirk,0.9908779876009167
+50,Data,Janeway,0.9905509444790915
+51,Data,Archer,0.984865686957022
+52,Data,Sisko,0.9871547526624539
+53,Data,Picard,0.994220600718443
+54,Data,Animated Spock,0.9982130449359605
+55,Data,Animated Kirk,0.9918814808793448
+56,Animated Spock,Original Spock,0.9995052511206293
+57,Animated Spock,Original Kirk,0.9920752860623172
+58,Animated Spock,Janeway,0.9911736615329763
+59,Animated Spock,Archer,0.9861875603294211
+60,Animated Spock,Sisko,0.9881255752310685
+61,Animated Spock,Picard,0.9944325963688893
+62,Animated Spock,Data,0.9982130449359605
+63,Animated Spock,Animated Kirk,0.9934034017678741
+64,Animated Kirk,Original Spock,0.9945894064550371
+65,Animated Kirk,Original Kirk,0.9992285183056868
+66,Animated Kirk,Janeway,0.9972949095734902
+67,Animated Kirk,Archer,0.9947055033796323
+68,Animated Kirk,Sisko,0.995783212495648
+69,Animated Kirk,Picard,0.9980342270939754
+70,Animated Kirk,Data,0.9918814808793448
+71,Animated Kirk,Animated Spock,0.9934034017678741
